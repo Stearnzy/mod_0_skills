@@ -6,10 +6,10 @@ alcohol_by_volume (float)
 beer_style (string)
 international_bitterness_units (integer)
 price (float)
-fluid_volume (float)
+fluid_volume_in_oz (float)
 
 Methods:
 discount_price (lowers price attribute)
-empty (lowers fluid_volume attribute)
-fill (increases fluid_volume attribute)
+empty (lowers fluid_volume_in_oz attribute)
+fill (increases fluid_volume_in_oz attribute)
 open_bottle (changes bottle_is_open boolean from false to true)
