@@ -1,0 +1,17 @@
+Smoothie
+
+Attributes:
+name (string)
+ingredients (array)
+has_lid (boolean)
+total_capacity (float)
+current_capacity (float)
+temp_at_creation (integer)
+current_temp (integer)
+
+Methods:
+add_ingredient (adds ingredient to ingredients array)
+toggle_lid (adds or removes lid)
+rename (changes 'name' string)
+calculate_amount_drank (shows difference in volume between total_capacity and current_capacity)
+calculate_change_in_temp (uses current_temp and temp_at_creation to find change in temperature)
