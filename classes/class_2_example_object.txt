@@ -1,0 +1,26 @@
+Banana Hammock Smoothie
+
+Attributes:
+name = "Banana Hammock Smoothie"
+ingredients = ["banana", "coconut", "pineapple"]
+has_lid = true
+total_capacity = 16.0
+current_capacity = 4.6
+temp_at_creation = 32
+current_temp = 56
+
+Methods:
+add_ingredient(mango)
+ingredients = ["banana", "coconut", "pineapple", "mango"]
+
+toggle_lid:
+has_lid = false
+
+rename:
+name = "Tropic Thunder"
+
+calculate_amount_drank = total_capacity - current_capacity
+calculate_amount_drank = 11.4
+
+calculate_change_in_temp = current_temp - temp_at_creation
+calculate_change_in_temp = 24
