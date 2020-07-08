@@ -1,0 +1,22 @@
+Avalanche Amber Ale
+
+Attributes:
+bottle_is_open = false
+alcohol_by_volume = 5.0
+beer_style (string) = "amber"
+international_bitterness_units (integer) = 35
+price (float) = 5.00
+fluid_volume_in_oz (float) = 12.0
+
+Methods:
+discount_price(2.00)
+price = 3.00
+
+empty(12.0)
+fluid_volume_in_oz = 0.0
+
+fill(2.5)
+fluid_volume_in_oz = 2.5
+
+open_bottle
+bottle_is_open = true
