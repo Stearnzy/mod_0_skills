@@ -1,0 +1,12 @@
+food = "sushi"
+is_delicious = true
+food = "ramen"
+
+num2 = 2
+num7 = 8
+quotient = num7 / num2
+
+songs = ["TNT", "Ride the Lightning", "Dirty Deeds"]
+songs.slice!(0)
+
+food.size
