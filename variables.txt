@@ -7,6 +7,6 @@ num7 = 8
 quotient = num7 / num2
 
 songs = ["TNT", "Ride the Lightning", "Dirty Deeds"]
-songs.slice!(0)
+songs.shift
 
 food.size
