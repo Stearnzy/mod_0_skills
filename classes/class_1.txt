@@ -1,4 +1,4 @@
-Beer bottle
+BeerBottle
 
 Attributes:
 bottle_is_open (boolean)
