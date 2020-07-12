@@ -1,4 +1,4 @@
-Avalanche Amber Ale
+avalanche_amber_ale
 
 Attributes:
 bottle_is_open = false
