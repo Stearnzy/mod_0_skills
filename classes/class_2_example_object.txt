@@ -1,4 +1,4 @@
-Banana Hammock Smoothie
+banana_hammock_smoothie
 
 Attributes:
 name = "Banana Hammock Smoothie"
